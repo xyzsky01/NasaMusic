@@ -1,8 +1,6 @@
-<img src="https://telegra.ph/file/198ae8fd6048244f918ab.jpg" align="right" width="200" height="200"/>
 
-# Prime Music Bot <img src="https://img.shields.io/github/v/release/Toni880/PrimeMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Prime Music Bot](https://github.com/Toni880/PrimeMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[NASA MUSIC Bot](https://github.com/xyzsky01/NasaMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -39,10 +37,10 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 <summary><b> 🚀 Heroku Deployment</b></summary>
 <br>
 
-<h4>Click the button below to deploy Prime on Heroku!</h4>    
+<h4>Click the button below to deploy Nasa on Heroku!</h4>    
 <a href="https://heroku.com/deploy?template=https://github.com/Toni880/PrimeMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-<h4>Click the button below to deploy Prime on bot Telegram!</h4>
+<h4>Click the button below to deploy Nasa on bot Telegram!</h4>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU11c2ljIG1haW4"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
 </details>
 
@@ -54,9 +52,9 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 ```console
 root@PrimeMusic~ $ sudo su
 root@PrimeMusic~ $ apt-get update && apt-get upgrade -y
-root@PrimeMusic~ $ screen -S PrimeMusic
-root@PrimeMusic~ $ git clone https://github.com/Toni880/PrimeMusic
-root@PrimeMusic~ $ cd PrimeMusic
+root@PrimeMusic~ $ screen -S NasaMusic
+root@PrimeMusic~ $ git clone https://github.com/xyzsky01/NasaMusic
+root@PrimeMusic~ $ cd NasaMusic
 root@PrimeMusic~ $ bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
